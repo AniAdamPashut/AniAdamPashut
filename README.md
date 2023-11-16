@@ -1,7 +1,9 @@
 ### benAmi
 
-Just a guy who likes computers
+Loves programming and math
+Getting into the thick of it ↘
 
+[Anthem](https://www.youtube.com/watch?v=tas0O586t80)
 
 <!--
 **benAmi6360/benAmi6360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
