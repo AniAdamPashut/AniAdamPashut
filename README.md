@@ -2,8 +2,6 @@
 
 Just a guy who likes computers
 
-[acieve(target) for target in tagrets]
-
 
 <!--
 **benAmi6360/benAmi6360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
