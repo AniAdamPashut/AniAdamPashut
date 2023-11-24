@@ -1,7 +1,8 @@
 ### benAmi
 
 Loves programming and math <br>
-Getting into the thick of it ↘
+Getting into the thick of it ↘ <br>
+LET ME COOK 👨‍🍳
 
 [Anthem](https://www.youtube.com/watch?v=tas0O586t80)
 
