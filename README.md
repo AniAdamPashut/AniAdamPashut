@@ -1,10 +1,8 @@
-### benAmi
+### [Ani Adat pashut](https://open.spotify.com/track/1F5zcJWVYelsmk1493aNm1?si=a48b25536fe04dd2)
 
-Loves programming and math <br>
+Check out [this](https://github.com/aniadampashut/cpi) and [this](https://github.com/aniadampashut/cpm) if you like C <br>
 Getting into the thick of it ↘ <br>
 LET ME COOK 👨‍🍳
-
-[Anthem](https://www.youtube.com/watch?v=tas0O586t80)
 
 <!--
 **benAmi6360/benAmi6360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
