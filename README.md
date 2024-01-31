@@ -1,7 +1,7 @@
 ### [Ani Adam pashut](https://open.spotify.com/track/1F5zcJWVYelsmk1493aNm1?si=a48b25536fe04dd2)
 
 Check out [this](https://github.com/aniadampashut/cpi) and [this](https://github.com/aniadampashut/cpm) if you like C <br>
-[Here](https://github.com/aniadampashut/cdst) are some implementations for common data structures 
+[Here](https://github.com/aniadampashut/cdst) are some implementations for common data structures <br>
 Getting into the thick of it ↘ <br>
 LET ME COOK 👨‍🍳
 
