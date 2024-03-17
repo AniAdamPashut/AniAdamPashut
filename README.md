@@ -1,10 +1,5 @@
 ### [Ani Adam pashut](https://open.spotify.com/track/1F5zcJWVYelsmk1493aNm1?si=a48b25536fe04dd2)
-
-Check out [this](https://github.com/aniadampashut/cpi) and [this](https://github.com/aniadampashut/cpm) if you like C <br>
-[Here](https://github.com/aniadampashut/cdst) are some implementations for common data structures <br>
-Getting into the thick of it ↘ <br>
-LET ME COOK 👨‍🍳
-
+קומפילציה זה מגניב בערך
 <!--
 **benAmi6360/benAmi6360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
