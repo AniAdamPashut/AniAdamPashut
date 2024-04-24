@@ -1,5 +1,6 @@
 ### [Ani Adam pashut](https://open.spotify.com/track/1F5zcJWVYelsmk1493aNm1?si=a48b25536fe04dd2)
 קומפילציה זה מגניב בערך
+רוב מה שאני כותב זה PoC, יש לקחת כל שורה פה בעירבון מוגבל. הרוב פה זה אתגר מאיזה ליצן אחר.
 <!--
 **benAmi6360/benAmi6360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
